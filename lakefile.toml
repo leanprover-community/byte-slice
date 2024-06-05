@@ -1,0 +1,4 @@
+name = "ByteSlice"
+
+[[lean_lib]]
+name = "ByteSlice"
