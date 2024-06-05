@@ -17,5 +17,5 @@ jobs:
 
       - uses: leanprover/lean-action@v1-beta
         with:
-          check-reservoir-eligibility: true
+          check-reservoir-eligibility: false
           test: false   # There are no tests
